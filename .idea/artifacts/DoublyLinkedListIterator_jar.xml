@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DoublyLinkedListIterator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DoublyLinkedListIterator_jar</output-path>
+    <root id="archive" name="DoublyLinkedListIterator.jar">
+      <element id="module-output" name="DoublyLinkedListIterator" />
+    </root>
+  </artifact>
+</component>
